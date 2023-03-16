@@ -1,0 +1,126 @@
+## Esna 416 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée C
+- Date: Unknown 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=62){target="_blank"}  
+- Bibliography: @lieven-himmel, pp. 81-82; @altmann-mond, pp. 620-621; @mendel-himmel, II, pp. 429-432. 
+   
+![](./images/416_1.png){width=80%}  
+   
+**1**  Bark with child inside solar disk (morning sun) ([Color photograph](https://flic.kr/p/2nzueWC){target="_blank"}).    
+  
+<div class="col2">
+
+^1^ *nsw.t-bỉty *  
+*nfr-ḥr*  
+*ḫʿ.tw ḥr srḫ*  
+*(ḥr) bd(.t) st.wt*  
+*m-ḫt pr=f*  
+   
+^1^ The King of Upper and Lower Egypt,   
+beautiful of face,    
+appears upon the *serekh*,  
+emitting his rays    
+after he comes forth.  
+
+</div>
+  
+**2**  Adoring rekhyt figures ([Color photograph](https://flic.kr/p/2nzugdn){target="_blank"}).    
+  
+<div class="col2">
+
+^2^ *rḫy(.t) nb.w*  
+*m ʿy m ḥr=k*  
+*ḥr dwȝ=k rʿ-nb*  
+  
+^2^ All rekhyt-people  
+are in jubilation before you,  
+worshipping you every day.
+
+</div>
+  
+![](./images/416_2.png){width=80%}  
+  
+**3**  First six hours of the day ([Color photograph](https://flic.kr/p/2nzwJmD){target="_blank"})    
+  
+**4-5** Bark with Khnum inside a solar disk (midday sun), worshipped by three gods (the Bas of Pe) ([Color photograph](https://flic.kr/p/2nzwJsF){target="_blank"})     
+  
+Text over the bark:  
+<div class="col2">
+
+^3^ *swḥ n ʿnḫ*  
+*ỉw m p.t r tȝ*  
+*mn m ẖ.t*  
+  
+^3^ The breath of life,  
+who comes from the sky to the earth,   
+and dwells within the body.  
+
+</div>
+
+Text over the Bas of Pe (not copied by Sauneron or Mendel):  
+<div class="col2">
+
+*[...] ỉb*  
+*ḥr dwȝ=sn nṯr*  
+*twt(.w) ḥr šms=f*  
+*rʿ-nb*  
+     
+[...] of heart,  
+as they praise god,  
+being united in his service,  
+every day.  
+  
+</div>  
+![](./images/416_3.png){width=80%}  
+   
+**6** Last six hours of the day ([Color photograph](https://flic.kr/p/2nzueZZ){target="_blank"}).    
+   
+**7-8** Bark with old man inside a solar disk (evening sun), worshipped by three gods (the Bas of Nekhen).   
+  
+Over the bark:    
+
+<div class="col2">
+
+^4^ *Ḫprỉ *  
+*ỉȝw rnp*  
+*zbỉ ḏ.t*  
+*ḥtp m dwȝ.t*  
+*m ẖ.t Nw.t*  
+  
+^4^ Khepri,  
+the old man who rejuvenates,    
+who traverses eternity,  
+and rests within the Duat,  
+through the belly of Nut.
+
+</div>
+  
+Over the Bas of Nekhen (text only in Mendel):      
+
+<div class="col2">
+  
+*[...]*  
+*ḫnty n ẖr.t-nṯr*  
+*ḥr ỉr(.t) ỉȝw n [nb=sn?]*  
+*m dwȝ.t štȝ.t*  
+   
+[...]   
+foremost of the Necropolis,   
+making praise for [their lord?]  
+in the mysterious Duat.  
+
+</div>

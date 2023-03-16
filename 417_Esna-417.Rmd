@@ -1,0 +1,85 @@
+## Esna 417 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée C
+- Date: Commodus
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=63){target="_blank"}  
+- Bibliography: @lieven-himmel, pp. 84-89; @altmann-mond, pp. 622-624; @mendel-himmel, II, pp. 432-433.  
+- [Photograph 1](https://flic.kr/p/2nzueWC){target="_blank"}   
+- [Photograph 2](https://flic.kr/p/2nzwJmD){target="_blank"}   
+  
+<div class="col2">
+
+*wnn wnm.t mḥ.tw*  
+*ỉȝb.t gsgs.tw*  
+*ȝḫ.ty ȝḫ.tw *  
+*nn šnʿ ỉm=s*  
+   
+*kȝ-psỉ pw*  
+*ỉp dbḥ.w wḏȝ.t*  
+*m-ʿqȝ=f kȝ-nḫt pw*  
+*psḏ.tw r mtr n smd.t*  
+   
+*Rʿ Wsỉr ḫp(r).tw *  
+*m snsn kȝ.wy*  
+*n(t)sn m ḥb*  
+*ḥr.w nb.w ʿbȝ(.w)*  
+*(m) wbḫ=sn ḏ.t*  
+*ḏ.t=f ẖ.t=f*  
+   
+*ỉtn [...]*  
+*[...] nḥḥ m Rʿ*  
+*wḥm.n=f ms.w*  
+*(ḥr) ʿq pr r-mn mỉn*  
+   
+*Ỉs.t ḥr wnm.t*  
+*Nb.t-ḥw.t ḥr ỉȝbt.t*  
+*sn.ty rs-wḏȝ r-ḥn.ty*  
+   
+*zȝ Rʿ nb ḫʿ.w*  
+*(qʿmʿts ʿntnns nty-ḫwỉ)|*  
+*ʿnḫ(.w) ḏ.t nḥḥ*  
+  
+The right eye is filled,   
+the left eye restored,   
+the *akhet*-eyes are made luminous,   
+without cloud cover.    
+   
+Here is the Blazing Bull (the full moon),  
+who reckons the pieces of the *wedjat*-eye;  
+across from him is the Mighty Bull (the sun),  
+shining at the moment of Day 15.  
+  
+Re and Osiris have become manifest  
+during the Union of the Two Bulls,  
+they are in festival,  
+and every face is illumined   
+(through) their perpetual shining,  
+day and night.  
+  
+The sun disk [...]  
+[...] eternity as Re,  
+having repeated births,  
+entering and exiting until today.  
+  
+Isis is on the right,  
+Nephthys is on the left,  
+the two sisters of Res-wedja forever!  
+  
+The Son of Re, Lord of appearances,  
+(Commodus Antoninus Augustus)|   
+living forever and ever.  
+
+</div>

@@ -1,0 +1,64 @@
+## Esna 441bis {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Architrave E
+- Date: Uncertain
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=101){target="_blank"}
+  
+<div class="col2">
+
+^1^ *ʿnḫ nṯr nfr*  
+*ḫnty ȝḫ.t*  
+*ʿnḫ r-ȝw=f*  
+*psḏ tȝ.wy *  
+*m [...] wḏȝ.ty=*^2^*f*    
+*ḥr.t [...]*  
+*Ỉwn ỉnỉ [nṯ]r.t(?)*  
+*wnn.t [ḥr].tw*  
+  
+^1^ Live the good god,   
+foremost of the Akhet,   
+he who lives entirely,    
+the two lands shine  
+from the [....] of his eyes,    
+the sky [...]  
+Iun-pillar, who brings the [god]ddess(?)   
+who had been [far] away.
+
+</div>
+
+<div class="col2">
+
+^3^ *ʿnḫ nṯr nfr*  
+*[ḏ].t=f ẖ.t=f *  
+*[...]=sn r=f nḥḥ*  
+*ḏ.t pw *  
+*wn=f ỉm=f*  
+*m swḥ* ^4^ *n [ʿnḫ?]*  
+*mn m [...]*  
+*ḥr [...]=f*  
+*ỉỉ [...]*  
+  
+^3^ Live the good god,  
+[ev]ening and morning,  
+they [...] towards him forever,    
+that means for linear eternity,    
+he exists in there,   
+as the breath ^4^ of [life?]  
+which endures in [...]  
+upon [...] his [...]  
+who comes [...]  
+
+</div>

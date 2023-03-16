@@ -1,0 +1,126 @@
+## Esna 400 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée A
+- Date: Trajan or Geta 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=39){target="_blank"}  
+- Bibliography: @lieven-himmel, pp. 20-29, Pls. 2b-2c; @altmann-mond, pp. 612-615.  
+- Parallels: Certain phrases occur in [Esna 406]. 
+- [Partial photograph. Credit: Ahmed Amin](https://uni-tuebingen.de/fileadmin/_processed_/8/8/csm_20-11-10_07_Sternbilder_cead7d7fd3.jpg){target="_blank"}  
+
+<div class="col2">
+
+*wnn p.t bȝq(.tw)*  
+*m wr.w*  
+*psḏ ỉʿḥ ỉmỉ.tw=sn*  
+*r-gs ỉtn*  
+*mỉ Wsỉr m ỉw-nsrsr*  
+   
+*wnn nn (n) nṯr.w*  
+*ḥr sḫp(r) nṯr.w nṯry.t*  
+*ʿ.wt ȝpd.w rm.w ḥrr.w*  
+*ẖ.t wnn.t nb.w tp tȝ*  
+*m ḥʿw=sn*  
+   
+*nts(n) wḏʿ-mdw*  
+*m tȝ (r)-ḏr=f*  
+*ḥsb=sn ỉḫt nb*  
+*m p.t m tȝ*  
+*r-gs Rʿ ỉʿḥ*  
+*ḥȝy.ty*  
+    
+The sky is radiant  
+with the great stars,[^fn-400-1]  
+the moon shines between them   
+beside the sun disk,  
+like Osiris in the Isle of Flames.  
+  
+These gods  
+create the gods and goddesses,  
+mammals, birds, fish, snakes,  
+the bodies of all that exists on earth,  
+all by themselves.  
+  
+It is they who issue decisions  
+in the entire earth;  
+they reckon all things  
+in heaven and earth,  
+beside Re and the moon,   
+the twin luminaries.
+
+</div>
+
+[^fn-400-1]: 
+![](./images/400_1.png){width=22%} - The *m* and eye-sign appear to have swapped places, as one would expect an adjective or stative verb to modify the noun here. Similar perturbed sign order occurs later on in this text (*šsr=sn* ***m*** *r'=sn*).
+
+<div class="col2">
+
+*bȝ.w ʿnḫ.w nw nṯr.w*  
+*pẖr(.w) s.t-Rʿ*  
+*nbnb(.w) hȝy.ty*  
+*rʿ-nb*  
+*wpwty.w m spȝ.wt*   
+*sṯy(.w) šsr=sn m r'=sn*  
+*r gmḥ=sn nb*  
+*wȝ(i.w)*  
+*m hrw pn*  
+*m ȝbd pn*  
+*m rnp.t tn*  
+*m wnw.t=sn nb*   
+  
+The living Bas of the gods,  
+who encircle the throne of Re (the sky),  
+who revolve around[^fn-400-1a] the two firmaments,   
+daily;  
+the messenger gods of the nomes,  
+who shoot their arrows from their mouths  
+against all those whom they behold   
+from afar:  
+on this day,  
+in this month,  
+in this year,  
+and in all their hours.  
+
+</div>
+
+[^fn-400-1a]: For the reading, see @kurth-olz, p. 26 (citing a similar passage in *Edfou* VIII, 109, 2).
+
+<div class="col2">
+
+*Ỉs.t pw m rr.t*  
+*ḥr spḥ msḫtyw*  
+*m p.t mḥy.t*  
+*r tm rdỉ.t sḫd=f*  
+*r dwȝ.t*  
+   
+*wnn=f m-ʿ=s*  
+*m ỉp.t-wr.t m p.t*  
+*nn fḫ ʿ=s ỉm=f*  
+*ḏ.t nḥḥ*  
+  
+This is Isis as a hippopotamus,[^fn-400-2]  
+lassoing the Big Dipper  
+in the northern sky,  
+lest he be allowed to descend  
+to the Duat.  
+    
+He remains with her,  
+as Ipet-weret in the sky;  
+her arm shall never release him,   
+for all eternity.  
+
+</div>
+
+[^fn-400-2]: This text about Ipet-weret occurs immediately next to the two representations of this goddess in [Esna 399], A, as noted by [Christian Leitz](https://youtu.be/WGZiRJfNYZI?t=1293). The scene with Ipet-weret and the Great Dipper is actually represented elsewhere on Travée B, [Esna 409], 40. See also [Esna 450], 3.

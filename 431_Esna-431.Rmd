@@ -1,0 +1,279 @@
+# Architrave D (431-432) {-}
+
+## Esna 431 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Architrave D
+- Date: Vespasian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=84){target="_blank"}    
+- [Epigraphic Copy](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=169){target="_blank"} 
+- Bibliography: @lieven-himmel, pp. 112-118.
+  
+<div class="col2">
+
+*nṯr ḥȝy st.wt*  
+*ḫʿỉ m sṯn*  
+*wbn m Nwn*  
+*ʿḫ.n=f wṯz.t *  
+*tp dwȝw*  
+*dỉ=f sw m ḥr.t*  
+*ḥr ʿ.wy sn.ty*  
+   
+*ḥfd.n=f bỉȝ.t*  
+*m tȝ*  
+*ṯȝy.n=f ḥr.t*  
+*nmt.n=f Nw.t*  
+*r sḫn [...]=f*  
+*m ẖr.t-hrw*  
+   
+*ʿq=f pr=f*  
+*m ḫpy šps*  
+*mḥn.t ḥnʿ=f*  
+*m zȝw=f*  
+*m rn=s n Mnḥy.t-Nb.t-ww*
+   
+The god, bright of rays,     
+who appears in the white crown,      
+and rises from Nun,     
+having raised up the sky   
+in the morning;   
+he shows himself in the sky,   
+upon the arms of the Two Sisters.  
+  
+As he flew up to the firmament   
+from the earth,   
+so he seized heaven,    
+and traversed the sky (Nut),  
+to unite with his [...]  
+every single day.  
+  
+He exits and enters (from Nut)  
+as an august, winged scarab,   
+his coiled uraeus (*mḥn.t*) is with him  
+in his protection,   
+in her name of Menhyt (*Mnḥy.t*)-Nebtu.  
+
+</div>
+
+<div class="col2">
+
+*ẖnm=f ḥm=f rʿ-nb*  
+*tȝ-sn.t m ḥb*  
+*pr-nṯr m ḥʿʿ*  
+*pr Ḥr*  
+*ḥr s.t-Gbb*  
+*wḥʿ=f sȝḥ=f *  
+*r dmy.w*  
+   
+*nsw.t-bỉty *  
+*ẖnmw-Rʿ nb tȝ-sn.t*  
+*ḥtp ḥr mnw pn nfr*  
+*ỉr=f dỉ(.w)-ʿnḫ ḏ.t*  
+  
+He unites with his majesty daily.  
+Esna is in festival,   
+Per-netjer rejoices,   
+as Horus comes forth   
+upon the throne of Geb.  
+As he loosens, so he lands   
+at the various harbors.  
+   
+The King of Upper and Lower Egypt,   
+Khnum-Re Lord of Esna,    
+who is pleased with this good monument.  
+May he perform 'given life' eternally.
+
+</div>
+
+<div class="col2">
+
+^2^ *nsw.t-bỉty*  
+*sḫm šps*  
+*ḥry nṯr.w nb*  
+*ẖnmw-Rʿ nb tȝ-sn.t*  
+   
+*ỉtn wr*  
+*wbn m Nw.t*  
+*ḏȝỉ p.t m bȝ rʿ-nb*  
+*m 4 hr.w ḥr nḥb.t wʿ.t*  
+   
+*ỉmn nn rḫ.tw qd=f*  
+*pr m Nwn*  
+*ḫʿỉ m nbỉ.t*  
+   
+*ʿpy wr*  
+*nb hȝy.ty*  
+*wr bȝw=f r nṯr.w nb*  
+*ỉn st.wt=f tȝ.wy*  
+*r ḥr.t*  
+*wbn p.t m mȝwy*  
+*n ỉr.t=f*  
+*sḥḏ(.w) tȝ*  *m ȝḫ.ty=f(y)*  
+  
+^2^ The King of Upper and Lower Egypt,  
+the august image,  
+chief of all the gods,    
+Khnum-Re Lord of Esna.  
+  
+The great solar disk,  
+who rises in Nut,  
+who traverses the sky as a ram, daily,  
+with four faces on a single neck.  
+  
+The hidden one, whose form is unknowable,  
+who emerged from Nun,  
+and appears equipped with a flame.  
+  
+The great winged solar disk,     
+lord of the firmaments,  
+whose power is greatest of all the gods;  
+his rays reach over the two lands  
+up to heaven,    
+the sky shines from the radiance  
+of his eye,    
+and the earth is illumined from his  
+luminous eyes.
+   
+</div>
+
+<div class="col2">
+
+*qmȝ.n=f hrw *  
+*ṯnỉ=f grḥ*  
+*wḏʿ.n=f rnp.wt*  
+*ỉr.n=f ȝbd.w*  
+*rḫ.n=f wnw.wt*  
+   
+*ỉr.n=f ṯȝw*  
+*qmȝ.n=f mḥy.t*  
+*qd rmṯ.w*  
+*ỉr.n=f nṯr.w*  
+   
+*ḥʿʿ.n=f m-ḫnt ḥw.t-ỉt*  
+*m kȝ.t ỉr(.t) n=f*  
+*zȝ-Rʿ*  
+*nb ḫʿ.w*  
+*(wspsysns nty-ḫwỉ)|*  
+*ỉr=f n=f ḥb.w-sd.w ʿšȝ*  
+  
+As he created the day,  
+so he distinguished the night,  
+he separated years,  
+he made months,  
+and he knows hours.  
+  
+As he made air,  
+so he made the north-wind,  
+he who builds humans,  
+having made the gods.  
+  
+He rejoiced within Temple of the Father,  
+over the works made for him  
+by the Son of Re,   
+Lord of Appearances,    
+(Vespasian Augustus)|.  
+May he make for him numerous Sed-Festivals.
+
+</div>
+
+<div class="col2">
+
+^3^ *nfr.wy ḥr=k*  
+*psḏ=k m pr=k*  
+*ʿq=k ḥw.t-nṯr=k*  
+*m nḏm-ỉb*  
+   
+*twt s(y) r ȝḫ.t*   
+*dbn ỉtn.wy ỉm=s*  
+*m snsn-kȝ.wy*  
+   
+*mȝȝ=k mnw pn nfr*  
+*ỉr(.w).n=k*  
+*nsw.t-bỉty*  
+*(ȝwtwkrtwr ksrs)|*  
+   
+How beautiful is your face,  
+as you shine in your domain,    
+and enter your temple  
+in happiness!  
+   
+It is resembles the Akhet,    
+in which both disks (sun and moon) revolve   
+during the Meeting of the Two Bulls.  
+  
+May you behold this good monument,    
+which was made for you by  
+the King of Upper and Lower Egypt  
+(Autokrator Caesar)|  
+
+</div>
+
+<div class="col2">
+   
+*ḫwz.n=f ḫnty ʿȝ šps*  
+*m-rwty ḥw.t-nṯr=k*  
+*m ỉnr ḥḏ nfr rwḏ*  
+*ȝw=f wsḫ=f r mnḫ*  
+*r (tp)-ḥsb*  
+   
+*wḫȝ.w=f r zḫn.wt*  
+*twȝ(.w) Nw.t*  
+*ḫtỉ(.w) m sš.w nw mdw.w-nṯr*  
+*ḥr swr šfy.t*  
+*n bȝ šps ḫnty Ỉwny.t*  
+*nb kȝ m Ỉnb-ḥḏ=f *  
+*m tȝ-šmʿ*  
+   
+*ḏr-nty s.t-štȝ.t*  
+*nt nṯr.w pȝwty.w*  
+*pr-hyn pw n qmȝ wnn.t*  
+*ʿḥ šps n qd-ỉqd.w*  
+   
+*ỉzwy ḫr=f *  
+*m ʿḥʿ n Rʿ*  
+*ḥr s.t-Ḥr ḏ.t*
+  
+He constructed a great, august, forecourt  
+before your temple,   
+made from beautiful, enduring sandstone.  
+Its width and breadth are excellent  
+and exactly correct.  
+  
+Its papyriform columns are as supports  
+which lift up Nut,[^fn-431-1]     
+inscribed with hieroglyphic texts,    
+magnifying the prestige,[^fn-431-1b]   
+of the August Ba within Iunyt,   
+Lord of Ka in his own Memphis  
+within Upper Egypt.[^fn-431-2]  
+  
+Because (it is) the hidden place   
+of the primeval gods,    
+it is the *pr-hyn*   
+of He who Created what Exists,[^fn-431-3]  
+and the august palace   
+of the Builder of Builders.[^fn-431-4]  
+  
+His reward for this  
+is the lifetime of Re   
+upon the throne of Horus, forever. 
+
+</div>
+
+[^fn-431-1]: Other building texts from Esna frequently identify the columns with papyrus plants, Shu, Heh, and other supporters of the sky: e.g. *Esna* II, 64, 4; 169; 176.
+[^fn-431-1b]: Note similar phraseology in *Esna* II, 64, 4: "(this temple) magnifies the prestige of the Lord of the Potter's Wheel." 
+[^fn-431-2]: If Esna can be the replica of Sais in Upper Egypt for Neith (see [Esna 424, 3]), it is also a second Memphis for Khnum-Ptah-Tatenen.
+[^fn-431-3]: For this passage, see @klotz-baboons, pp. 44-46. As discussed there, the *pr-hyn* is most likely a type of workshop of Tatenen for creating gods.  
+[^fn-431-4]: Esna is called the same thing in *Esna* II, 16, 1.

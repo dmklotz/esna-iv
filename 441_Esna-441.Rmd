@@ -1,0 +1,151 @@
+# Architrave E (441-441bis) {-}
+
+## Esna 441 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Architrave E
+- Date: Uncertain
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=100){target="_blank"}   
+- [Epigraphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=175){target="_blank"}  
+- Bibliography: @lieven-himmel, pp. 140-143; @altmann-mond, p. 630 (excerpt).
+  
+<div class="col2">
+
+^1^ *wnn ḥw.t-ẖnmw*  
+*wbg.tw rʿ-nb*  
+*mỉ gb.t*  
+*ẖr dbn.wy*  
+   
+*sw mỉ ḥr.t*  
+*ẖr ỉtn.wy*  
+*Nw.t wr.t*  
+*ẖr ḥȝy.ty*  
+   
+*psḏ n=s ḫnty-tȝ.wy-nṯr.w*  
+*m-ḫnt=s*  
+*mỉ psḏ-m-nbw*  
+*sḥḏ=f tȝ.wy ỉry*  
+*m wbn=f*  
+   
+^1^ The Temple of Khnum   
+is radiant (*wbg*), every day,    
+like the firmament (*gb.t*)   
+bearing the two orbiters (sun and moon).   
+  
+It is like the sky,    
+bearing the two disks,    
+Nut the great,    
+bearing th two luminous ones (sun and moon).  
+  
+Foremost of the Lands of the Gods[^fn-441-1] shines for it  
+from within it,   
+just like He who Shines in Gold (Re):  
+he illumines all the lands   
+through his rising.
+
+</div>
+
+[^fn-441-1]: This is one of the Seven Khnums, who appears elsewhere as a form of the sun in [Esna 449], 1.
+
+<div class="col2">
+
+*sʿnḫ(.w) srq-ḥty.t*  
+*m st.wt=f*  
+*ḥr.w-nb.w* ^2^ *ḥʿʿ.tw*  
+*r mȝȝ=f*  
+   
+*ḏȝỉ.n=f p.t*  
+*m bȝ mȝʿ rʿ-nb*  
+*m ḫprw=f nfr*  
+*n bȝ 4*  
+*m ḥr.w 4 ḥr nḥb.t wʿ(.t)*  
+   
+*ʿḥʿ=f m pr=f*  
+*m ʿḥʿy*  
+*ḥr sḫpr ʿḥʿ-ḥms*  
+*ỉn bȝ.w n nṯr.w m gs.w-pr.w*  
+*ḥnʿ bȝ n Wsỉr m sỉn.t*  
+     
+Mortals are enlivened[^fn-441-2]  
+by means of his rays,  
+everybody ^2^ rejoices  
+to see him.  
+  
+That he sails across heaven  
+is as a Ba (with) good wind, daily,  
+in his good manifestation   
+of the four Bas,   
+with four heads on one neck.  
+
+He stops (*ʿḥʿ*) in his domain  
+at the zenith (*ʿḥʿy*),  
+creating temple meals (*ʿḥʿ-ḥms*)   
+for the Bas of gods in the temples,[^fn-441-3]  
+along with the Ba of Osiris in Egypt.  
+
+</div>
+
+[^fn-441-2]: This term for "mortals" (lit. "those with breathing throats") occurs often at Esna: @sauneron-5, p. 169; and see a similar passage in [Esna 449], 2.
+[^fn-441-3]: Very similar phraseology for the four-headed ram (the midday sun) at noon in [Esna 449], 1-2. See also *Esna* III, 331, 13.
+
+<div class="col2">
+
+*zmȝ.n=f sbỉ.w*  
+*ḥwỉ.n=f ʿȝpp*  
+*ỉr.n=f ḫfty.w=f*  
+*m tm-wn*  
+   
+*wn=f wn* ^3^ *nḥḥ*  
+*wn nḥḥ wn=f*  
+   
+*ḏ.t pw rn=f*  
+*ḥtp=f m Mȝnw*  
+*m ỉȝw rnp*  
+*Ỉtm pw ḫr.tw r=f*  
+*sšd=f s(w) m dwȝ.t*  
+*r ẖ.t Nw.t rʿ-nb*  
+*ḥr wbn ḥtp n ḏ.t*  
+*m nḫḫ ỉr ḥwnw*  
+*r-mn mỉn*  
+   
+*nṯr.w bȝkty.w*  
+*(ḥr) sqd m-ḫt=f*  
+*ḫȝty.w m šms=f*  
+*(r) ḥn.ty nḥḥ*  
+  
+As he slew the rebels,  
+so did he strike down Apophis,  
+having made his enemies  
+non-existent.  
+  
+As he exists so is cyclical-eternity,   
+as cyclical-eternity exists so is he.  
+  
+His name is (also) linear-eternity,   
+(when) he sets into Manu,    
+as the old man who rejuvenates.  
+He is Atum, as he is called,  
+and he dashes out from the Duat  
+back up to the belly of Nut, daily,   
+rising and setting for linear-eternity,   
+as the old man who becomes young,   
+up to the present day.  
+  
+The working gods (stars)   
+sail behind him,    
+the slaughtering-demons are in his service  
+for the limits of cyclical-eternity.  
+
+</div>

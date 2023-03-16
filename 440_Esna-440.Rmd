@@ -1,0 +1,73 @@
+## Esna 440 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée D
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=99){target="_blank"}  
+  
+<div class="col2">
+
+^1^ *ʿnḫ nṯr nfr*  
+*wtṯ n ẖnmw*  
+*nbỉ m ʿ.wy=f*  
+*snn=f ḫnty ʿnḫ.w*  
+*nsw.t bỉty*  
+*nb tȝ.wy*  
+*(twmtyns nty-ḫwỉ)|*  
+  
+^1^ Live the good god,  
+begotten of Khnum,  
+fashioned with his hands,  
+his replica formoest of the living:  
+King of Upper and Lower Egypt,  
+Lord of the Two Lands,  
+(Domitian Augustus)|  
+
+</div>
+
+<div class="col2">
+
+^2^ *mry ẖnmw-Rʿ nb tȝ-sn.t*  
+*Ptḥ ʿḫỉ p.t*  
+*Šw twȝ Nw.t*  
+*ỉwn wr*  
+^3^ *wp p.t r tȝ*  
+  
+*bȝ ʿȝ wr*  
+*štȝ.tw r nṯr.w*  
+*ʿḫỉ p.t*  
+*sš.n=f wȝ.wt=s*  
+   
+^4^ *nṯr pn*  
+*šȝʿ tȝ m sḫr.w=f*  
+*ṯnỉ=f sw r nṯr.w*  
+  
+^2^ Beloved of Khnum-Re Lord of Esna,  
+Ptah who lifts up the sky,  
+Shu who supports Nut,  
+the great pillar of air,  
+^3^ which separate heaven from earth.  
+  
+The very great Ba,  
+most mysterious of the gods,  
+who lifts up the sky,    
+having opened up its paths.  
+  
+^4^ This god   
+who began the earth through his designs,   
+and distinguished himself above the gods.
+
+</div>
+

@@ -1,0 +1,77 @@
+## Esna 412 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée B
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=57){target="_blank"}  
+- Bibliography: 
+
+<div class="col2">
+
+^1^ *ʿnḫ nṯr nfr*  
+*wr mnw m Ỉwny.t*  
+*ỉr ȝḫ.w*   
+*n Pr-ẖnmw*  
+*nb ḫʿ.w*  
+*(tymtyns ḫwỉ)|*  
+  
+^2^ Live the good god,  
+great of monuments in Iunyt,  
+who make excellent things  
+for Per-Khnum,    
+Lord of Appearances,    
+(Domitian Augustus)|
+
+</div>
+
+<div class="col2">
+
+^2^ *mry ẖnmw-Rʿ nb sḫ.t*  
+*Šw zȝ Rʿ*  
+*sḫm šps *  
+*ʿȝ šfy.t*  
+*wsr m ḫʿ=f*  
+^3^ *bȝ nṯry*  
+*wr bȝw *  
+*nfrw=f ṯnỉ(.w)*   
+*r nṯr.w*  
+*ʿnḫ ʿnḫ.tw ỉm=f*  
+    
+^2^ Beloved of Khnum-Re Lord of the Field,    
+Shu, son of Re,  
+august image,  
+great of prestige,  
+mighty during his appearance,  
+^3^ divine Ba,  
+great of power,  
+whose goodness is most distinguished  
+of the gods,  
+life force, from whom one lives.
+
+</div>
+
+<div class="col2">
+
+^4^ *mry Nb.t-ww nb(.t) tȝ-sn.t*  
+*tfn.t zȝ.t Rʿ*  
+*ẖnm(.t) sn=s ẖnmw*  
+*mḥn=s ḥr tp=f*  
+   
+^4^ Beloved of Nebtu, Lady of Esna,  
+Tefnut, daughter of Re,  
+who unites (*ẖnm*) with her brother Khnum (*ẖnmw*),  
+as she coils upon his head.  
+
+</div>

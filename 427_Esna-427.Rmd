@@ -1,0 +1,110 @@
+## Esna 427 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Central Row
+- Date: Titus
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=81){target="_blank"}  
+- [Color photograph](https://uni-tuebingen.de/fileadmin/_processed_/f/0/csm_22-05-17_Esna_Tempel__3__881ca5748c.jpg){target="_blank"} (far right)
+- Bibliography: @lieven-himmel, pp. 108-111.
+- Parallels: Many of the phrases find corresponding expressions in the symmetric text [Esna 425].
+
+<div class="col2">
+
+*wbn štȝ.t m [Nḫn...]*  
+*m sḏḏ=s n ḥwr.t wr.t*  
+*ẖnbb.n=s Ỉwny.t m nḏm-ỉb*  
+   
+*pgȝ=s dmȝ.ty=s*  
+*ḥr ḫw(.t) ỉȝ.t-ṯȝ.wy*  
+*ḥr mk(.t) sḫm.w m ḥw.t-ẖnmw*  
+   
+*ẖnm=s Nḥp*  
+*m ḥw.t-nṯr=f tn*  
+*mk=s ḏ.t=f*  
+*swḏȝ=s ỉwf=f*  
+*ḫw=s ḥm=f m ḥḏ=f*  
+   
+*dỉ=s r-ḥȝ*  
+*wn=s m mḥn.t=f*  
+*wbd.n=s ḫfty=f m nbỉ.t=s*  
+  
+When the mysterious vulture rises in Nekhen[^fn-427-0][...]  
+in her form of the great bird of prey,    
+having entered Iunyt in joy,  
+  
+She spreads her wings  
+guarding Nome of the Chicks,   
+protecting the statues of Temple of Khnum.  
+  
+She unites with the Potter  
+in this his temple,  
+she protects his body,  
+she keeps his flesh healthy,   
+and she guards his Majesty in his shrine.  
+   
+When she goes outside,   
+she exists as his coiled uraeus,   
+burning his enemy with her flame.[^fn-427-1]  
+
+</div>
+
+[^fn-427-0]: This reading would seem to fit the shape in the color photograph, and would be appropriate for Nekhbet.
+[^fn-427-1]: Here the vulture transforms into a uraeus serpent, a role typically performed by Menhyt. This change is appropriate for the vultures in [Esna 426] whose heads are alternately avian and serpentine.
+
+<div class="col2">
+
+*ḫp(r)=s m wnm.t=f*  
+*ʿnḫ=f ỉm=s*  
+*ḥḏ.t n nsw.t*  
+*tp dwȝw*  
+*ḫrp.tw n=f gȝ.w(t)*  
+*nw Ḫnty-ḥn-nfr*  
+   
+*rdỉ pr nb m ṯȝw*  
+*mỉ-nty ntf nb ỉḫt-mn*  
+*ỉty n ỉfdw Nw.t*  
+
+*hr ḥr ỉr(.t).n=f*  
+*dỉ tȝ-sn.t m ḥb*  
+*ḥr dỉ(.t) ḥb-sd.w ʿšȝ*  
+*n nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ȝwtkrtwr tỉtỉs ksrs)|*  
+*mry ẖnmw-Rʿ nb tȝ-sn.t*  
+*Ṯnn ỉt nṯr.w*  
+  
+She transforms into his right eye,  
+through which he lives:  
+the white crown of the *nsw.t*-king,  
+each morning,  
+when tribute is brought to him  
+from Khenty-hen-nefer (Nubia).  
+  
+Grant all that comes from the wind![^fn-427-2]  
+For he is the Lord of the world,   
+sovereign of the four corners of the sky.  
+  
+Be pleased with what he accomplished!  
+Place Esna in festival,  
+by giving numerous Sed-festivals  
+to the King of Upper and Lower Egypt,   
+Lord of the Two Lands,  
+(Autokrator Titus Caesar)|  
+beloved of Khnum-Re Lord of Esna,  
+Tatenen father of the gods!
+
+</div>
+
+[^fn-427-2]: For the translation of *rdỉ* and the following *dỉ* as imperatives, see the similar phraseology in [Esna 425]. 

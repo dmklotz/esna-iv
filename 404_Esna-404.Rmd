@@ -1,0 +1,87 @@
+## Esna 404 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>
+
+- Location: Travée A, lower part of architrave A
+- Date: Domitian 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=42){target="_blank"}  
+- Bibliography: 
+
+<div class="col2">
+
+^1^ *ʿnḫ nṯr nfr*  
+*nbỉ Pr-ẖnmw*  
+*ḫwỉ šzp.w=sn*  
+*mkỉ ʿḫm.w=sn*  
+*nsw.t-bỉty*  
+*(tmtyns ḫwỉ)|*  
+  
+^1^ Live the good god,  
+who fashions Per-Khnum,  
+who guards its statues,  
+and protects its relics,  
+the King of Upper and Lower Egypt:  
+(Domitian Augustus)|  
+
+</div> 
+
+<div class="col2">
+
+^2^ *mry ẖnmw-Rʿ*   
+*ḥry s.t=f wr.t*  
+*ḥry-ỉb ḥw.t-bȝ.w*  
+*ỉwn n ʿnḫ*  
+*n nṯr.w rmṯ.w*  
+*nṯr ʿȝ ḫnty ḥw.t-ẖnmw*  
+  
+^2^ Beloved of Khnum-Re  
+upon his Great Throne,  
+within Temple of the Bas;  
+air-pillar of life  
+for gods and humans,  
+great god within the Temple of Khnum.
+
+</div>
+
+<div class="col2">
+
+^3^ *mry Ỉs.t wr.t*  
+*mw.t-nṯr*   
+*nb(.t) ḥw.t-bȝ.w*  
+*ʿȝ.t m p.t*  
+*wsr.t m tȝ*  
+*ḥqȝ.t ḫnt(.t) tȝ-sn.t*  
+  
+^3^ Beloved of Isis the great,  
+Mother of God,   
+Lady of Temple of the Bas,  
+great in heaven,  
+mighty on earth,  
+Ruler foremost of Esna.  
+
+</div>
+
+<div class="col2">
+
+^4^ *mry Ḫnsw-Ḏḥwty m s.t tn*  
+*sš m p.t*  
+*sšm m tȝ*  
+*sḫm ʿȝ m nṯr.w*  
+  
+^4^ Beloved of Khonsu-Thoth in this place,  
+scribe in heaven,  
+guide on earth,  
+great power among the gods.  
+
+</div>

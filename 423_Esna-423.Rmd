@@ -1,0 +1,125 @@
+## Esna 423 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Architrave C
+- Date: Unknown
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=70){target="_blank"}  
+- Bibliography: See [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/2739){target="_blank"}  
+
+<div class="col2">
+
+^A1^ *ʿnḫ nṯr nfr*  
+*ỉr.t Rʿ pw*  
+*shḏ(.t) tȝ.wy*  
+*wʿ.t pw *  
+*nn snw=s*  
+*sḫ.t [...]*  
+^A2^ *mw.t ḥw.t-bȝ.w*  
+*m rn=s pw n Nb.t-ww*  
+*ḥnw.t sḫ.t nfr.t*  
+   
+*zȝ Rʿ *  
+*nb ḫʿ.w*  
+*([...])|*  
+  
+^A1^ Live the good god,  
+that  means the eye of Re,  
+who illumines the two lands;  
+that means the sole goddess,    
+without her peer;    
+the Field [...]  
+^A2^ mother (in) the Temple of the Bas,  
+in this her name of Nebtu,    
+Mistress of the good field.  
+  
+Son of Re,  
+Lord of Appearances,  
+([...])|  
+  
+</div>
+
+<div class="col2">
+
+^A3^ *[ʿnḫ nṯr nfr]*  
+*ỉty qn*  
+*mrty m ḫʿỉ=f*  
+*nṯr nʿš ỉmỉ.tw psḏ.t*  
+*[...]* ^A4^ *[...]*  
+*ỉt zȝ.w-n=sn*  
+*nb mȝʿ.t*  
+*pr m mȝʿ-ḫrw*  
+   
+*nsw.t-bỉty*  
+*nb tȝ.wy *  
+*([...])|*  
+  
+^A3^ [Live the good god]        
+[mi]ghty and strong,[^fn-423-1]     
+beloved one when he appears[^fn-423-2],   
+fierce god amid the Ennead,[^fn-423-3]  
+[...] ^A4^ [...]  
+Father of the guardian deities,[^fn-423-4]    
+Lord of Maat,  
+who comes forth in justification.  
+   
+The King of Upper and Lower Egypt,  
+Lord of the Two Lands    
+([...])|
+
+</div>
+
+[^fn-423-1]: Several of the following epithets are spelled with crocodiles, and parallels suggest these refer to Khnum-Re Lord of the Field. For this crocodile form of Khnum, see @leitz-rams, p. 254.
+
+[^fn-423-2]: For the initial epithet, the first crocodile should properly wear the atef-crown associated with the word *ỉty*, "sovereign" (cf. @gamelin-2019, p. 40):  *Esna* III, 261, 16; *Esna* VII, 619, 46; @leitz-rams, p. 263, 7 (albeit with a different reading). A variant of the second phrase seems to occur in a similar context in the crocodile hymn: @leitz-rams, p. 263, 8.
+
+[^fn-423-3]: An epithet of Khnum-Re Lord of the Field in *Esna* III, 201, 9.
+
+[^fn-423-4]: The same epithet, with "father" written with a crocodile, occurs also in @leitz-rams, p. 264, 12; *Esna* VII, 608, 10.
+
+<div class="col2">
+
+^B1^ *ʿnḫ nṯr nfr*  
+*ʿȝ.t m p.t*  
+*wsr.t m tȝ [...]*  
+^B2^ *[ḫ]ʿỉ nb*  
+*ẖr s.t-r'=s*  
+*ȝḫ.t ỉmnt.t(?) [...]*  
+   
+^B3^ *ʿnḫ nṯr nfr*  
+*ỉwʿʿ n Šw*  
+*ḥqȝ tȝ.wy [...]*  
+^B4^ *[... š]fy(.t)*  
+*nsw.t nṯr.w*  
+*bỉty rmṯ.w*  
+*(Wn-nfr mȝʿ-ḫrw)|*  
+*ḥqȝ [...]*  
+  
+^B1^ Live the good god,  
+the great one in heaven,  
+the mighty one on earth [...]  
+^B2^ The Lord [ap]pears in glory   
+under her authority;   
+the brilliant, the western(?) [...]  
+  
+^B3^ Live the good god,   
+heir of Shu,   
+ruler of the two lands [...]  
+^B4^ [... pre]stige,    
+*nsw*-king of the gods,    
+*bỉty*-king of humans,    
+(Wennfer, justified)|  
+ruler of [...]   
+
+</div>

@@ -1,0 +1,80 @@
+## Esna 408 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée B
+- Date: Unknown 
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=51){target="_blank"}  
+- Bibliography: @lieven-himmel, pp. 60-63, Pls. 3a-b  
+- Parallels: *Edfou* III, 35, 6-9; pBerlin 23026
+
+
+<div class="col2">
+
+*wnn Sȝḥ wr *  
+*(ḥr) sqd ḥr.t*  
+*sȝḥ.n=f p.t tȝ*  
+*m ȝw(.t)-ỉb rʿ-nb*  
+   
+*psḏ mȝwy=f m nsp*  
+*sḫm ỉb=f*  
+*sḫr ḫfty.w=f*  
+   
+*p(ȝ) nty (m) p.t*  
+*bȝ=f m-ḫt=f*  
+*sn.t ȝḫ.t m nḏ.t=f*  
+*m Spd.t*  
+*ḥnw.t ḫȝbs.w*  
+   
+*bȝkty.w ỉry*  
+*(ḥr) sqd m-sȝ=f*  
+*ʿnḫ.w m šms=f rʿ-nb*  
+   
+*p(ȝ) nty ỉw ḥtp=f m dwȝ.t*  
+*nt sšm n dwȝty*  
+*wnn=k ʿnḫ(.w)*  
+   
+Whenever great Orion (*Sȝḥ*)[^fn-408-0]     
+sails across the sky,  
+he reaches (*sȝḥ*) heaven and earth  
+in happiness, every day.  
+   
+He whose rays shine[^fn-408-1] as a knife,  
+whose heart is powerful,  
+and who strikes down his enemies.  
+  
+He who is in the sky,  
+his Ba following after him,  
+his excellent sister as his guardian,  
+as Sothis,  
+Mistress of the decan-stars.[^fn-408-2]  
+     
+The working-stars, for their part,  
+sail after him,   
+the living-stars follow him, daily.[^fn-408-3]  
+  
+O he who sets in the Duat,  
+in the form of the Morning star,  
+may you live![^fn-408-4]  
+
+</div>
+
+[^fn-408-0]: Not surprisingly, this initial text appears directly beside the figure of Orion in [Esna 407].
+[^fn-408-1]: Several words in this text are spelled so unconventionally, they can be read only by comparing the parallels (@lieven-himmel, Pls. 3a-b). 
+
+[^fn-408-2]: This text refers directly to the beginning of [Esna 407], where Orion and Sothis (curiously wearing the Seshat crown) are labelled as Osiris and Isis. See the color photograph linked there.
+
+[^fn-408-3]: These various stars following Orion and Sothis are the decan stars depicted in [Esna 407] and [Esna 409] on either side of this inscription. They are also described at the end of [Esna 406], 3.
+
+[^fn-408-4]: The inscription ends abruptly here, while the parallels contain further wishes.  

@@ -1,0 +1,59 @@
+## Esna 430 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Central Row
+- Date: Titus or Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=83){target="_blank"}  
+  
+**Labels to the giant winged sundisk**  
+  
+**a**  
+<div class="col2">
+
+*nb Msn *  
+*nṯr ʿȝ nb p.t*  
+*zȝb-šw.ty*   
+*pr m ȝḫ.t*  
+*ḫnty ỉtr.ty mḥw*  
+*dỉ(.w) ʿnḫ*  
+  
+Lord of Mesen,  
+great god, lord of heaven,  
+dappled of plumage,  
+who emerges from the Akhet,   
+foremost of the dual chapels of Lower Egypt,  
+given life.
+ 
+</div>
+
+**b**  
+<div class="col2">
+
+*Bḥdty*  
+*nṯr ʿȝ nb p.t*  
+*zȝb-šw.ty*   
+*pr m ȝḫ.t*  
+*ḫnty ỉtr.ty šmʿ*  
+*dỉ(.w) ʿnḫ*  
+  
+He of Behdet,  
+great god, lord of heaven,  
+dappled of plumage,  
+who emerges from the Akhet,   
+foremost of the dual chapels of Upper Egypt,  
+given life.
+ 
+</div>
+

@@ -1,0 +1,86 @@
+## Esna 448 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée E
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=110){target="_blank"}  
+  
+<div class="col2">
+
+^1^ *ʿnḫ nṯr nfr*  
+*ḫwzỉ Ỉwny.t*  
+*mỉ ȝḫ.t n.t p.t*  
+*qȝ.tw r Nw.t*  
+*ḏsr.tw r nỉw.wt spȝ.wt*  
+*zȝ-Rʿ*  
+*(twmtyns nty-ḫwỉ)|*  
+  
+^1^ Live the good god,     
+who constructs Iunyt  
+like the Akhet of the sky:  
+higher than Nut,   
+most sacred of cities and nomes.  
+The Son of Re,   
+(Domitian Augustus)|  
+
+</div>
+
+<div class="col2">
+
+^2^ *mry Mnḥy.t wr.t*   
+*nb.t ḫnt-tȝ*  
+*šps.t ʿȝ.t*  
+*mr.t Ptḥ*  
+*wsr.t nn ḥr-ḫw=s*  
+   
+*nsr.t* ^3^ *tp.t n Rʿ*  
+*wr pʿy.t*  
+*sḫm hh=s*  
+   
+*ỉr.t-Rʿ*  
+*sḥḏ(.t) tȝ.wy*  
+*štȝ.t ḫw.tw ḏs=s*  
+  
+^2^ Beloved of Menhyt the great,  
+Lady of Khent-ta,  
+the great august one,  
+beloved of Ptah,  
+mighty one, all by herself.  
+  
+The flame ^3^ atop Re,  
+great of fire,  
+whose blaze is powerful.  
+  
+The Eye of Re,  
+who illumines the two lands,  
+the mysterious-serpent who protects herself.
+
+</div>
+
+<div class="col2">
+
+^4^ *mry Nb.t-ww*  
+*nb(.t) tȝ-sn.t*  
+*nbw.t ḥnw.t sḫ.t*  
+*Rnnwt.t sḫpr(.t) ỉḫt nb.w*  
+*m s.t=s*  
+  
+^4^ Beloved of Nebtu,  
+Lady of Esna,  
+the Golden, Mistress of the Field,  
+Renenutet who produces all offerings  
+in her place.
+
+</div>

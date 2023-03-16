@@ -1,0 +1,120 @@
+# Architrave B (413) {-}
+
+## Esna 413 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Architrave B
+- Date: Unknown
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=58){target="_blank"}  
+- Bibliography: @lieven-himmel, pp. 66-70, Pl. 4; @altmann-mond, pp. 616-617 (excerpts).  
+- Parallel: [Esna 450] (lines 1-2)
+
+<div class="col2">
+
+^1^ *nfr.wy ḥr=k*  
+*sȝḥ wr*  
+*ỉw=k ḫʿ.tw m p.t rsy.t*  
+*ỉỉ.tw [ʿnḏ].tw*  
+*nn ḫfty=k ỉm*  
+   
+*ỉb n Rʿ r=k*  
+*zȝ=k Ḥr m nḏty=k*  
+*m wbȝ wȝ.wt pw*  
+*m-ḥȝ.t=k*  
+   
+*šm=k m ḥʿʿ*  
+*nn snḏ=k*  
+*r hȝw Ỉwnw*  
+*m s.t-ỉb=k*  
+   
+*ẖnm=k m ỉȝb.t n.t Ỉtm*  
+*ʿnḫ=k rnp=k ỉm=s*  
+   
+*ʿq=k m tȝ*  
+*mỉ Ḫprỉ*  
+*pẖr=k dwȝ.t m* ^2^ *ḥʿʿ*  
+*ʿpy bȝ=k m-ḫt Rʿ*  
+*zmȝ mȝwy=f m sȝḥ=k*   
+  
+^1^ How beautiful is your face,  
+great Orion (*Sȝḥ*),  
+when you appear in the southern sky:  
+you arrive [heal]thy,   
+without your enemy therein.   
+   
+You are the heart of Re,  
+and your son Horus is your guardian,  
+that means opening up roads    
+before you.  
+    
+You travel in jubilation,   
+without your fearing,   
+to the vicinity of Heliopolis  
+in your favorite place.  
+   
+You join with the left eye of Atum,  
+and you live and rejuvenate through it.  
+  
+You enter into the earth,   
+like Khepri,   
+you go around the Duat in ^2^ jubilation,    
+and your Ba flies up after Re,   
+so his rays might unite with your mummy (*sʿḥ*).  
+
+</div>
+
+<div class="col2">
+
+*ḫʿỉ=k m dwȝw *  
+*ḥtp=k m mšrw*  
+*Rʿ pw*  
+*wn=k ʿnḫ.tw ḏd.tw rnp.tw*  
+*mỉ rʿ-nb*  
+*r-mn mỉn ḏ.t nḥḥ*  
+   
+*hwnw nfr rnp.tw *  
+*zbỉ ḏ.t*  
+*wn wn wyn=f wȝỉ*  
+*m ḥr.t*  
+*ḥr mȝȝ ỉtn nfr*  
+*n (Wn-nfr mȝʿ-ḫrw) m ʿnḫ*  
+   
+*mn wḏȝ.ty=k *  
+*ḫnt mȝwy n ỉtn*  
+*ȝḫ.ty=k gsgs.tw*  
+*m dbḥw=s *   
+*ỉw [...]*  
+  
+As you shine in the morning,    
+so you set in the morning,    
+(that means Re).  
+You shall live, endure, and rejuvenate,  
+every day,  
+until today and for all eternity.  
+  
+Good youth who has rejuvenated,   
+who traverses eternity,   
+he whose light is far away     
+in the sky,  
+beholding the good sun disk  
+of (Wennefer justified)| in life.  
+  
+Your two *wedjat*-eyes endure  
+within the rays of the sun disk;  
+your two *akhet*-eyes are restored  
+with their pieces;  
+and [...]
+
+</div>

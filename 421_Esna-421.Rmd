@@ -1,0 +1,72 @@
+## Esna 421 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée C
+- Date: Domitian
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=66){target="_blank"}  
+- Bibliography: @klotz-baboons, p. 34; see also [Tempeltexte 2.0](http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/2734){target="_blank"}  
+- Parallels: The epithets of Neith occur in the hymn *Esna* III, 331, 9-11.  
+  
+<div class="col2">
+
+^1^ *ʿnḫ nṯr nfr*  
+*ỉwʿʿ n Rʿ*  
+*rr n mw.t=f N.t*  
+*nsw.t-bỉty*  
+*(twmtyns nt-ḫwỉ)|*  
+  
+^1^ Live the good god,  
+heir of Re,  
+nursed by his mother, Neith,  
+King of Upper and Lower Egypt  
+(Domitian Augustus)|  
+
+</div>
+
+<div class="col2">
+
+^2^ *N.t wr.t*  
+*mw.t-nṯr nb(.t) tȝ-sn.t*  
+*qmȝ(.t) stw.t*  
+*ḫrs(.t) kkw*  
+   
+^3^ *ḥbs(.t) ỉtn *  
+*m šsp=s *  
+*wbn=s sḥḏ.n=s *  
+*ḥḏḏ.w=s (ḥr) rdỉ(.t) *  
+*sỉȝ wʿ snw=f *  
+   
+^4^ *Nw.t pw n.t ȝḫty*  
+*wbn=f ḥtp=f ỉm=s*  
+*ỉwty ỉḏr=s*  
+*nỉ rḫ.tw ḥn.ty=s*  
+  
+^2^ Neith the great,  
+Mother of god, Lady of Esna,    
+who creates rays of light,  
+and dispels darkness;  
+  
+^3^ She who clothes the sun disk      
+with her radiance,  
+as she rises, so she illumined,  
+and her luminosity allows  
+one to perceive another.   
+  
+^4^ She is Nut of Akhty,  
+he rises and he sets in her;    
+being infinite,    
+her limits are unknowable.  
+
+</div>

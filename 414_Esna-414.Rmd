@@ -1,0 +1,130 @@
+# Row C (414-421) {-}
+
+## Esna 414 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée C
+- Date: Unknown
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=60){target="_blank"}  
+- Bibliography: @lieven-himmel, pp. 72-77; @klotz-baboons, p. 57 (excerpt); @altmann-mond, pp. 617-620.
+  
+<div class="col2">
+
+^1^ *gb.t ỉʿ.tw*  
+*nn ḥȝtỉ ỉm=s*  
+   
+*ỉw ḏd šps*  
+*ḥr wbn m-ḫnt=s*  
+   
+*zmȝ-mȝʿ.t ḫʿỉ.tw*  
+*r mtr.w n smd.t*  
+*kȝ [psỉ] pw*  
+*ỉp wḏȝ.t*   
+*m dbḥ.w=s*  
+     
+*ỉwn-ḥʿʿ pw*  
+*sḥḏ grḥ m ỉrw=f*  
+   
+*ỉȝbt.t bd šnʿ*  
+*m ḫʿỉ=f *  
+*grḥ nṯry m* ^2^ *ḥb*  
+   
+^1^ The night sky is purified,  
+without any cloud cover in it.  
+  
+The August Djed-pillar  
+shines within it.  
+  
+The Companion of Maat (Shu) appears  
+at the proper time of the full moon,   
+that means the [blazing] bull,  
+who reckons the wedjat-eye      
+with its constituent parts.  
+  
+He is the moon,  
+who illumines the night with his form.   
+    
+The left eye which shines through clouds  
+at his appearance,   
+the divine night in ^2^ festival.
+   
+</div>
+
+
+<div class="col2">
+
+*wyn wbn.tw*  
+*stw.t=f (ḥr) psḏ tȝ.wy ỉry*  
+   
+*ỉw nṯr ʿȝ m ẖnw*  
+*ḥr nšm.t*  
+   
+*nfr.wy ḫʿỉ=k*  
+*m ḥry-ỉb Nwn*  
+*[ỉnỉ?] Ḥʿpỉ wsr*  
+*(n) nty ḥr mw=f*  
+   
+*sqd sbȝ.w m skt.t*  
+*ỉzy.t mʿnḏ.t m šms=k*  
+*ḥr ẖnw ẖr=k*  
+*m grḥ wr*  
+  
+Light has arisen,  
+and its rays illumine all the lands.  
+  
+The great (lunar) god is sailing  
+upon the neshmet-bark.  
+  
+How beautiful is your appearance,  
+within Nun,  
+[o he who brings?] the mighty Inundation  
+to whomever is loyal to him.  
+   
+The stars sail in the day bark,  
+the crew of the night bark serve you,   
+sailing in front of you   
+during the great night.   
+
+</div>
+
+<div class="col2">
+
+*ỉḫm.w-*^3^*-sk.w*  
+*m-ʿb ỉḫm.w-wrḏ.w*  
+*(ḥr) ỉr(.t) gs.wy*  
+*m wỉȝ=k n ḥḥ*  
+   
+*nṯr.w nb m ẖnw ḥr sʿqȝ*  
+*(ḥr) smḥ [sȝḥ] tȝ*  
+*m-ʿ n ḫnty-ẖty*  
+   
+*šms.w nw Rʿ*  
+*šnwy.t nw Ỉtm*  
+*ỉw=w n=k m sqd [...]*  
+  
+The imperishable ^3^ stars,  
+with the indefatigable stars,  
+serve as the flanks  
+in your Bark of Millions.  
+  
+All gods are sailing correctly,  
+setting off and [reaching?] land  
+together with Khenty-Khety.  
+  
+The followers of Re,  
+the entourage of Atum,  
+they belong to you while sailing [...] 
+
+</div>

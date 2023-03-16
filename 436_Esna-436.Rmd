@@ -1,0 +1,100 @@
+## Esna 436 {-}
+
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>  
+
+- Location: Travée D
+- Date: Uncertain Emperor
+- [Hieroglyphic Text](https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=92){target="_blank"}  
+- Bibliography: @lieven-himmel, pp. 134-139; @altmann-mond, p. 629 (excerpts).
+
+
+<div class="col2">
+
+*wnn (tȝ)-sn.t *  
+*r sḫr.w n hȝy.ty*  
+*ỉry-wḥm m ḥry-ỉb=s*  
+*psḏ.n=s m nbw*  
+*tp-ʿ bẖ=f*  
+*ḥtp=f m-sṯy=s*  
+*tp wḫ*  
+   
+*wnm.t ỉȝbt.t ẖnm.tw ỉm=s*  
+*ỉtn Ỉtm m ʿnḫ*  
+   
+*bȝ ḏsr ḫpr.w*  
+*ḫp(r) m 4 bȝ.w*  
+*pr=sn hȝỉ=sn*  
+*m rn n ḥm=f*  
+*ntf pw ỉỉ m p.t r tȝ*  
+*Šw pw twȝ=f p.t*  
+
+
+*ḥtp=f m Mȝnw*  
+*m pẖr=s*  
+*m rn=f Ṯnn*  
+   
+Esna exists    
+according to the plans of the firmaments,    
+the Repeater (Re) is within it.[^fn-436-1]  
+It (Esna) shines in gold  
+right before he rises,    
+and he sets across from it  
+every night.  
+  
+The right and left eyes are united in it,    
+the solar disk (Aten) and Atum, in life.  
+  
+The Ba, sacred of manifestations,    
+who transforms into 4 Bas:[^fn-436-2]    
+they come out and go down  
+in the name of his Majesty.  
+It is he who comes from heaven to earth,  
+that means Shu, as he supports the sky.  
+  
+He sets in Manu,[^fn-436-3]  
+going all around it,  
+in his name of Tatenen.
+
+</div>
+
+[^fn-436-1]: This text refers to the lower register of Travée D, which shows three solar barks with the canonical forms of the sun, and so the present section most likely describes the newborn sun in the morning to the left: [Esna 437], 2. The phrase *ỉry-wḥm* typically denotes "the sky", or "the course of the sun": cf. @cauville-1994, p. 99, n. b; and so understood by @lieven-himmel, p. 135. But here it phrase seems to be an epithet describe the new sun, having just repeated its rebirth (*LGG* I, 452a; to which this example should be added), since this noun is later referred to with masculine pronouns: "before *he* rises (...) *he* sets...".
+
+[^fn-436-2]: The midday sun, depicted next to this text with four ram-heads in [Esna 437], 6. Since he controls the four Bas, possibly to be identified with the four winds, here is further identified with Shu. 
+
+[^fn-436-3]: That is, Atum as the evening sun, as depicted in [Esna 437], 8.
+
+<div class="col2">
+
+*nṯry.w wbn(.w)*  
+*r-ḥr n nb=s(n)*  
+*ḫȝty.w m šms=f rʿ-nb*  
+*bȝkty.w m-ḫt=f*  
+*sqd.w ỉry ḥr bȝk=sn*  
+   
+*nsw.t-bỉty*  
+*nb tȝ.wy*  
+*(ỉwtkrtyrs kysyrs)|*  
+*ʿnḫ(.w) ḏ.t nḥḥ*  
+  
+The divine stars who shine  
+in front of their lord;  
+the chopping-demons follow him, daily,  
+the working-stars are after him,  
+the sailing-stars likewise at their tasks.  
+  
+The King of Upper and Lower Egypt,   
+Lord of the Two Lands,  
+(Autokratoros Caesar)|  
+may he live for all eternity!  
+</div>

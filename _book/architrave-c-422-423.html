@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Architrave C (422-423) | The Temple of Esna. An Evolving Translation: Esna IV</title>
+<meta name="author" content="David Klotz">
+<meta name="generator" content="bookdown 0.29 with bs4_book()">
+<meta property="og:title" content="Architrave C (422-423) | The Temple of Esna. An Evolving Translation: Esna IV">
+<meta property="og:type" content="book">
+<meta property="og:image" content="/images/Esna4Cover.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Architrave C (422-423) | The Temple of Esna. An Evolving Translation: Esna IV">
+<meta name="twitter:image" content="/images/Esna4Cover.png">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.3.1/transition.js"></script><script src="libs/bs3compat-0.3.1/tabs.js"></script><script src="libs/bs3compat-0.3.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><style>
+    #content {
+        font-size: 0.95rem;
+    }
+    </style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS --><style type="text/css">
+    
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  </style>
+<style type="text/css">
+    /* Used with Pandoc 2.11+ new --citeproc when CSL is used */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+        }
+    .hanging div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }
+  </style>
+<link rel="stylesheet" href="style.css">
+<meta name="description" content="Esna 422     .col2 {    columns: 2 320px;     /* number of columns and width in pixels*/    -webkit-columns: 2 320px; /* chrome, safari */    -moz-columns: 2 320px;  /* firefox */   ...">
+<meta property="og:description" content="Esna 422     .col2 {    columns: 2 320px;     /* number of columns and width in pixels*/    -webkit-columns: 2 320px; /* chrome, safari */    -moz-columns: 2 320px;  /* firefox */   ...">
+<meta name="twitter:description" content="Esna 422     .col2 {    columns: 2 320px;     /* number of columns and width in pixels*/    -webkit-columns: 2 320px; /* chrome, safari */    -moz-columns: 2 320px;  /* firefox */   ...">
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">The Temple of Esna. An Evolving Translation: Esna IV</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">Esna IV</a></li>
+<li><a class="" href="row-a-399-404.html">Row A (399-404)</a></li>
+<li><a class="" href="architrave-a-405.html">Architrave A (405)</a></li>
+<li><a class="" href="row-b-406-412.html">Row B (406-412)</a></li>
+<li><a class="" href="architrave-b-413.html">Architrave B (413)</a></li>
+<li><a class="" href="row-c-414-421.html">Row C (414-421)</a></li>
+<li><a class="active" href="architrave-c-422-423.html">Architrave C (422-423)</a></li>
+<li><a class="" href="central-row-424-430.html">Central Row (424-430)</a></li>
+<li><a class="" href="architrave-d-431-432.html">Architrave D (431-432)</a></li>
+<li><a class="" href="row-d-433-440.html">Row D (433-440)</a></li>
+<li><a class="" href="architrave-e-441-441bis.html">Architrave E (441-441bis)</a></li>
+<li><a class="" href="row-e-442-448.html">Row E (442-448)</a></li>
+<li><a class="" href="architrave-f-449.html">Architrave F (449)</a></li>
+<li><a class="" href="row-f-450-454.html">Row F (450-454)</a></li>
+<li><a class="" href="column-summits-455-472.html">Column Summits (455-472)</a></li>
+<li><a class="" href="references.html">References</a></li>
+</ul>
+
+        <div class="book-extra">
+          
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="architrave-c-422-423" class="section level1 unnumbered">
+<h1>Architrave C (422-423)<a class="anchor" aria-label="anchor" href="#architrave-c-422-423"><i class="fas fa-link"></i></a>
+</h1>
+<div id="esna-422" class="section level2 unnumbered">
+<h2>Esna 422<a class="anchor" aria-label="anchor" href="#esna-422"><i class="fas fa-link"></i></a>
+</h2>
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>
+<ul>
+<li>Location: Architrave C</li>
+<li>Date: Unknown</li>
+<li>
+<a href="https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=69" target="_blank">Hieroglyphic Text</a><br>
+</li>
+<li>
+<a href="https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=164" target="_blank">Epigraphic Copy</a><br>
+</li>
+<li>Bibliography: <span class="citation"><a href="references.html#ref-lieven-himmel" role="doc-biblioref"><span class="smallcaps">Von Lieven</span></a> <a href="references.html#ref-lieven-himmel" role="doc-biblioref">2000</a></span>, pp. 90-94; see also <a href="http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/2736" target="_blank">Tempeltexte 2.0</a>
+</li>
+</ul>
+<div class="col2">
+<p><sup>1</sup><em>nfr.wy ḥr=k</em><br><em>ỉw=k ḫʿ.tw</em><br><em>m p.t mḥt.t</em></p>
+<p><em>ỉt ỉt.w pw </em><br><em>n nṯr.w</em><br><em>ẖnmw-Rʿ nb tȝ-sn.t</em><br><em>nṯr ʿȝ</em><br><em>nb ḥw.t-ẖnmw</em></p>
+<p><em>psḏ=k m ỉtn=k</em><br><em>m-ḫt Nw.t</em><br><em>mỉ psḏ-m-mḥn=f</em></p>
+<p><em>sḥḏ=k tȝ.wy ỉry</em><br><em>m nbỉ.t=k</em><br><em>sš.n=k gs.w-pr.w</em><br><em>wn.n=k ỉz.ty […]</em></p>
+<p><em>dwȝ.tw ḥm=k </em><br><em>m kȝr<sup>2</sup>=k šps </em><br><em>snỉ.tw sšp=k</em><br><em>m ȝḫ.t rʿ-nb</em></p>
+<p><sup>1</sup> How beautiful is your face!<br>
+When you appear<br>
+in the northern sky.</p>
+<p>That means: father of fathers<br>
+of the gods,<br>
+Khnum-Re Lord of Esna,<br>
+great god,<br>
+Lord of the Temple of Khnum.</p>
+<p>You shine in your disk<br>
+in the belly of Nut,<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;This section possibly refers to the nearby image of Khnum at the potter’s wheel (i.e. Khnum-Re Lord of Esna) depicted inside a solar disk as the midday sun in &lt;a href="row-c-414-421.html#esna-416"&gt;Esna 416&lt;/a&gt;, scene 3.&lt;/p&gt;'><sup>26</sup></a><br>
+like He who Shines in his Uraeus (Re).</p>
+<p>You illumine all the lands<br>
+with your flame;<br>
+as you opened the temples,<br>
+so have you opened the dual chapels […]</p>
+<p>One worships your majesty<br>
+in your <sup>2</sup> august shrine;<br>
+one reveres your radiance<br>
+in the Akhet, every day.</p>
+</div>
+<div class="col2">
+<p><em>bd.n=k knḥ</em><br><em>sʿr.n=k šzp</em><br><em>tkk.n=k ỉgp</em><br><em>r tȝ pn</em></p>
+<p><em>nḥp=k pʿy.t</em><br><em>qd.n=k rḫy.t</em><br><em>ỉr.n=k ʿnḫ ḥnmm.t</em></p>
+<p><em>qmȝ.n=k nṯr</em><br><em>sḫpr.n=k nṯr.t</em><br><em>sḫr.w nty psḏ.t</em></p>
+<p><em>msỉ.n=k ḥmww.w</em><br><sup>3</sup><em>nty nbỉ ʿḫm.w</em><br><em>ms.w ms.w=k ỉm=sn</em></p>
+<p><em>mḥ.n=k ḥm.wt m snb</em><br><em>m nh m nḫn</em><br><em>m ṯȝy.w ḥm.wt</em></p>
+<p><em>sḫpr.n=k ʿnḫ m ʿnḫ.w</em><br><em>mḥ.n=k fnḏ </em><br><em>m ṯȝw n ʿnḫ</em><br><em>šr.n=k šr.ty nb</em><br><em>m mḥy.t nfr.t</em></p>
+<p><em>wn.n=k r’</em><br><em>sš.n=k sp.ty […]</em></p>
+<p>As you illumined darkness,<br>
+so you made light ascend,<br>
+having attacked clouds<br>
+away from this land.</p>
+<p>As you fashioned the elites,<br>
+so you modelled the commoners,<br>
+and you made life for the sunfolk.</p>
+<p>You created the god,<br>
+and produced the goddess,<br>
+and the conditions of the Ennead.</p>
+<p>You birthed the artisans,<br>
+who fashion divine effigies,<br>
+and who thus birth your children thereby.</p>
+<p>You fill women with health,<br>
+while protecting the child,<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;&lt;img src="images/422_3_1.png" style="width:15.0%"&gt; - The first three child signs are uniliterals, the final a determinative.&lt;/p&gt;'><sup>27</sup></a><br>
+whether male or female.</p>
+<p>You have created life for the living,<br>
+you filled the nose<br>
+with the breath of life,<br>
+you (un)blocked all nostrils<br>
+with the good north-wind.</p>
+<p>As you opened the mouth,<br>
+so did you open the lips […]</p>
+</div>
+
+</div>
+<div id="esna-423" class="section level2 unnumbered">
+<h2>Esna 423<a class="anchor" aria-label="anchor" href="#esna-423"><i class="fas fa-link"></i></a>
+</h2>
+<style>  
+  
+  .col2 {  
+    columns: 2 320px;         /* number of columns and width in pixels*/  
+    -webkit-columns: 2 320px; /* chrome, safari */  
+    -moz-columns: 2 320px;    /* firefox */  
+    -webkit-column-break-inside: avoid;  
+    -page-break-inside: avoid;  
+    -break-inside: avoid;  
+  }  
+  
+</style>
+<ul>
+<li>Location: Architrave C</li>
+<li>Date: Unknown</li>
+<li>
+<a href="https://www.ifao.egnet.net/uploads/publications/enligne/Temples-Esna004.pdf#page=70" target="_blank">Hieroglyphic Text</a><br>
+</li>
+<li>Bibliography: See <a href="http://www.tempeltexte.uni-tuebingen.de/portal/#/text-detail/2739" target="_blank">Tempeltexte 2.0</a>
+</li>
+</ul>
+<div class="col2">
+<p><sup>A1</sup><em>ʿnḫ nṯr nfr</em><br><em>ỉr.t Rʿ pw</em><br><em>shḏ(.t) tȝ.wy</em><br><em>wʿ.t pw </em><br><em>nn snw=s</em><br><em>sḫ.t […]</em><br><sup>A2</sup><em>mw.t ḥw.t-bȝ.w</em><br><em>m rn=s pw n Nb.t-ww</em><br><em>ḥnw.t sḫ.t nfr.t</em></p>
+<p><em>zȝ Rʿ </em><br><em>nb ḫʿ.w</em><br><em>([…])|</em></p>
+<p><sup>A1</sup> Live the good god,<br>
+that means the eye of Re,<br>
+who illumines the two lands;<br>
+that means the sole goddess,<br>
+without her peer;<br>
+the Field […]<br><sup>A2</sup> mother (in) the Temple of the Bas,<br>
+in this her name of Nebtu,<br>
+Mistress of the good field.</p>
+<p>Son of Re,<br>
+Lord of Appearances,<br>
+([…])|</p>
+</div>
+<div class="col2">
+<p><sup>A3</sup><em>[ʿnḫ nṯr nfr]</em><br><em>ỉty qn</em><br><em>mrty m ḫʿỉ=f</em><br><em>nṯr nʿš ỉmỉ.tw psḏ.t</em><br><em>[…]</em> <sup>A4</sup><em>[…]</em><br><em>ỉt zȝ.w-n=sn</em><br><em>nb mȝʿ.t</em><br><em>pr m mȝʿ-ḫrw</em></p>
+<p><em>nsw.t-bỉty</em><br><em>nb tȝ.wy </em><br><em>([…])|</em></p>
+<p><sup>A3</sup> [Live the good god]<br>
+[mi]ghty and strong,<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;Several of the following epithets are spelled with crocodiles, and parallels suggest these refer to Khnum-Re Lord of the Field. For this crocodile form of Khnum, see &lt;span class="citation"&gt;&lt;a href="references.html#ref-leitz-rams" role="doc-biblioref"&gt;&lt;span class="smallcaps"&gt;Leitz&lt;/span&gt;&lt;/a&gt; &lt;a href="references.html#ref-leitz-rams" role="doc-biblioref"&gt;2001&lt;/a&gt;&lt;/span&gt;, p. 254.&lt;/p&gt;'><sup>28</sup></a><br>
+beloved one when he appears<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;For the initial epithet, the first crocodile should properly wear the atef-crown associated with the word &lt;em&gt;ỉty&lt;/em&gt;, “sovereign” (cf. &lt;span class="citation"&gt;&lt;a href="references.html#ref-gamelin-2019" role="doc-biblioref"&gt;&lt;span class="smallcaps"&gt;Gamelin&lt;/span&gt;&lt;/a&gt; &lt;a href="references.html#ref-gamelin-2019" role="doc-biblioref"&gt;2019&lt;/a&gt;&lt;/span&gt;, p. 40): &lt;em&gt;Esna&lt;/em&gt; III, 261, 16; &lt;em&gt;Esna&lt;/em&gt; VII, 619, 46; &lt;span class="citation"&gt;&lt;a href="references.html#ref-leitz-rams" role="doc-biblioref"&gt;&lt;span class="smallcaps"&gt;Leitz&lt;/span&gt;&lt;/a&gt; &lt;a href="references.html#ref-leitz-rams" role="doc-biblioref"&gt;2001&lt;/a&gt;&lt;/span&gt;, p. 263, 7 (albeit with a different reading). A variant of the second phrase seems to occur in a similar context in the crocodile hymn: &lt;span class="citation"&gt;&lt;a href="references.html#ref-leitz-rams" role="doc-biblioref"&gt;&lt;span class="smallcaps"&gt;Leitz&lt;/span&gt;&lt;/a&gt; &lt;a href="references.html#ref-leitz-rams" role="doc-biblioref"&gt;2001&lt;/a&gt;&lt;/span&gt;, p. 263, 8.&lt;/p&gt;'><sup>29</sup></a>,<br>
+fierce god amid the Ennead,<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content="&lt;p&gt;An epithet of Khnum-Re Lord of the Field in &lt;em&gt;Esna&lt;/em&gt; III, 201, 9.&lt;/p&gt;"><sup>30</sup></a><br>
+[…] <sup>A4</sup> […]<br>
+Father of the guardian deities,<a class="footnote-ref" tabindex="0" data-toggle="popover" data-content='&lt;p&gt;The same epithet, with “father” written with a crocodile, occurs also in &lt;span class="citation"&gt;&lt;a href="references.html#ref-leitz-rams" role="doc-biblioref"&gt;&lt;span class="smallcaps"&gt;Leitz&lt;/span&gt;&lt;/a&gt; &lt;a href="references.html#ref-leitz-rams" role="doc-biblioref"&gt;2001&lt;/a&gt;&lt;/span&gt;, p. 264, 12; &lt;em&gt;Esna&lt;/em&gt; VII, 608, 10.&lt;/p&gt;'><sup>31</sup></a><br>
+Lord of Maat,<br>
+who comes forth in justification.</p>
+<p>The King of Upper and Lower Egypt,<br>
+Lord of the Two Lands<br>
+([…])|</p>
+</div>
+<div class="col2">
+<p><sup>B1</sup><em>ʿnḫ nṯr nfr</em><br><em>ʿȝ.t m p.t</em><br><em>wsr.t m tȝ […]</em><br><sup>B2</sup><em>[ḫ]ʿỉ nb</em><br><em>ẖr s.t-r’=s</em><br><em>ȝḫ.t ỉmnt.t(?) […]</em></p>
+<p><sup>B3</sup><em>ʿnḫ nṯr nfr</em><br><em>ỉwʿʿ n Šw</em><br><em>ḥqȝ tȝ.wy […]</em><br><sup>B4</sup><em>[… š]fy(.t)</em><br><em>nsw.t nṯr.w</em><br><em>bỉty rmṯ.w</em><br><em>(Wn-nfr mȝʿ-ḫrw)|</em><br><em>ḥqȝ […]</em></p>
+<p><sup>B1</sup> Live the good god,<br>
+the great one in heaven,<br>
+the mighty one on earth […]<br><sup>B2</sup> The Lord [ap]pears in glory<br>
+under her authority;<br>
+the brilliant, the western(?) […]</p>
+<p><sup>B3</sup> Live the good god,<br>
+heir of Shu,<br>
+ruler of the two lands […]<br><sup>B4</sup> [… pre]stige,<br><em>nsw</em>-king of the gods,<br><em>bỉty</em>-king of humans,<br>
+(Wennfer, justified)|<br>
+ruler of […]</p>
+</div>
+
+</div>
+</div>
+
+  <div class="chapter-nav">
+<div class="prev"><a href="row-c-414-421.html">Row C (414-421)</a></div>
+<div class="next"><a href="central-row-424-430.html">Central Row (424-430)</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#architrave-c-422-423">Architrave C (422-423)</a></li>
+<li><a class="nav-link" href="#esna-422">Esna 422</a></li>
+<li><a class="nav-link" href="#esna-423">Esna 423</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+          
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>The Temple of Esna. An Evolving Translation: Esna IV</strong>" was written by David Klotz. It was last built on 2023-03-15 (latest update).</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer>
+</body>
+</html>
