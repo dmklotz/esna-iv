@@ -2,7 +2,7 @@
 
 ## Esna 399 {-}
 
-<style>  
+<style> 
   
   .col2 {  
     columns: 2 320px;         /* number of columns and width in pixels*/  

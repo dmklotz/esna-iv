@@ -13,3 +13,5 @@ bookdown::pdf_book:
   keep_tex: yes
   
 bookdown::epub_book: default
+
+and an extra note here
